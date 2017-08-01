@@ -1,0 +1,10 @@
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\bin\Debug\netcoreapp1.1\CardistryCloud.deps.json
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\bin\Debug\netcoreapp1.1\CardistryCloud.runtimeconfig.json
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\bin\Debug\netcoreapp1.1\CardistryCloud.runtimeconfig.dev.json
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\bin\Debug\netcoreapp1.1\CardistryCloud.dll
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\bin\Debug\netcoreapp1.1\CardistryCloud.pdb
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\obj\Debug\netcoreapp1.1\CardistryCloud.csprojResolveAssemblyReference.cache
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\obj\Debug\netcoreapp1.1\CardistryCloud.AssemblyInfo.cs
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\obj\Debug\netcoreapp1.1\CardistryCloud.dll
+c:\users\joelb\onedrive\dokumente\visual studio 2017\Projects\CardistryCloud\CardistryCloud\obj\Debug\netcoreapp1.1\CardistryCloud.pdb
